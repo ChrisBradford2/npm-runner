@@ -5,7 +5,7 @@
   "description": "Helper for running npm scripts interactively",
   "main": "index.js",
   "bin": {
-    "npm-helper": "./index.js"
+    "npm-helper": "index.js"
   },
   "scripts": {
     "test": "jest"
