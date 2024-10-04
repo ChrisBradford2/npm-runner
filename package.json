@@ -1,0 +1,13 @@
+{
+  "name": "my-npm-run-helper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Helper for running npm scripts interactively",
+  "main": "index.js",
+  "bin": {
+    "npm-helper": "./index.js"
+  },
+  "dependencies": {
+    "inquirer": "^9.3.7"
+  }
+}
