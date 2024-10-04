@@ -1,5 +1,5 @@
 {
-  "name": "my-npm-run-helper",
+  "name": "npm-helper",
   "version": "1.0.0",
   "type": "module",
   "description": "Helper for running npm scripts interactively",
