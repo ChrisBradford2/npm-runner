@@ -1,6 +1,6 @@
 {
   "name": "@ChrisBradford2/npm-helper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "description": "Helper for running npm scripts interactively",
   "main": "index.js",
