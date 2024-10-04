@@ -1,5 +1,5 @@
 {
-  "name": "@ChrisBradform2/npm-helper",
+  "name": "@ChrisBradford2/npm-helper",
   "version": "1.0.2",
   "type": "module",
   "description": "Helper for running npm scripts interactively",
