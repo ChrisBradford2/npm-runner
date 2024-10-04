@@ -7,7 +7,18 @@
   "bin": {
     "npm-helper": "./index.js"
   },
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "inquirer": "^9.3.7"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.js$": "babel-jest"
+    }
   }
 }
